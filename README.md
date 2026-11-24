@@ -58,6 +58,4 @@ model.track("video.mp4", tracker="bytetrack.yaml", conf=0.55, save=True)
 ```
 
 ## 참고
-
-- 추적 영상 원본: Pexels 무료 영상
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
