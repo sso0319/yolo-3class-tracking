@@ -1,7 +1,7 @@
 # YOLOv8 Fine-tuning: 자동차 · 전동킥보드 · 오토바이 감지 및 추적
 
 YOLOv8s 모델을 3개 부류(car, escooter, motorcycle) 데이터로 fine-tuning하고,
-학습된 모델로 거리 영상에서 객체 감지 및 추적(ByteTrack)을 수행했습니다.
+학습된 모델로 거리 영상에서 객체 감지 및 추적을 수행했습니다.
 
 ## 결과 영상
 
