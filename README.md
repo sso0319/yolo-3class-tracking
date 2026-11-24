@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/e1834fb5-f4af-441b-9f67-4decfb2f7a5b
 
 | 파일 | 설명 |
 |---|---|
-| `02_train_and_track.ipynb` | 학습, 평가, 객체 추적 |
+| `train_and_track.ipynb` | 학습, 평가, 객체 추적 |
 | `weights/best.pt` | 학습된 모델 |
 | `results/` | 추적 영상, 궤적 CSV, 학습 그래프 |
 
