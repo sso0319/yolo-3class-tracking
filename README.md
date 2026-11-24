@@ -4,9 +4,7 @@ YOLOv8s 모델을 3개 부류(car, escooter, motorcycle) 데이터로 fine-tunin
 학습된 모델로 거리 영상에서 객체 감지 및 추적을 수행했습니다.
 
 ## 결과 영상
-
-[results/tracking_result_conf055.mp4](results/tracking_result_conf055.mp4)
-
+https://github.com/user-attachments/assets/e1834fb5-f4af-441b-9f67-4decfb2f7a5b
 - 객체별 ID와 이동 궤적(trajectory)을 함께 표시
 - 프레임별 궤적 좌표는 `results/trajectories_conf055.csv`에 저장
 - 신뢰도 임계값(conf) 0.55 적용
