@@ -20,8 +20,6 @@ YOLOv8s 모델을 3개 부류(car, escooter, motorcycle) 데이터로 fine-tunin
 | 이미지 수 | 331장 (train 233 / valid 65 / test 33) |
 | 박스 수 | car 529 / escooter 162 / motorcycle 156 |
 
-※ 크롤링 이미지의 저작권 문제로 데이터셋은 공개하지 않습니다.
-
 ## 학습
 
 - 모델: YOLOv8s (COCO pretrained)
